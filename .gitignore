@@ -1,0 +1,4 @@
+*
+!.gitignore
+!*.sh
+!runfile/README.md
